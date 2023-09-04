@@ -1,5 +1,5 @@
 # Recursive-Fibonacci
-The common mistake is counting sequences not N
+# The common mistake is counting sequences not N
 function alpha(n){
 if (n<=1){
 return n
